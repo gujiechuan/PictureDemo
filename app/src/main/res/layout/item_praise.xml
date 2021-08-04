@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.meeriaddemo.Stack.StackCircleImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="60dp"
+    android:layout_height="60dp"
+    app:round_borderWidth="3dp"
+    app:round_borderColor="#ffffff" />
